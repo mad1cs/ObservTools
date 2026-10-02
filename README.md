@@ -4,7 +4,7 @@
 
 ObservTools is a desktop application designed for CS2 observers and broadcast production. It brings HUD management, live match data, player webcams, flythroughs and observer workflow tools into one application.
 
-**Current version: 1.0.6**
+**Current version: 1.0.7**
 
 [Website](https://obs.qcn.kz) · [Latest Release](https://github.com/mad1cs/ObservTools/releases/latest)
 
@@ -71,7 +71,7 @@ ObservTools is a desktop application designed for CS2 observers and broadcast pr
 3. Log in to ObservTools.
 4. Configure your HUD, match data and observer tools.
 
-**New users receive 7 days of the Individual plan for free.**
+**New users receive 600 credits upon registration, with all ObservTools features available.**
 
 ## Availability
 
@@ -84,6 +84,7 @@ The source code is not available for public use, modification or redistribution.
 * Website: https://obs.qcn.kz
 * Telegram: https://t.me/observtools
 * GitHub: https://github.com/mad1cs/ObservTools
+* Discord: https://discord.gg/sZdCK2QtW
 
 ## Author
 
